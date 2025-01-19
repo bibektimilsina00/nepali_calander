@@ -2,7 +2,7 @@ part of '../nepali_calander.dart';
 
 const _DayPickerGridDelegate _kDayPickerGridDelegate = _DayPickerGridDelegate();
 
-const double _kDayPickerRowHeight = 40.0;
+const double _kDayPickerRowHeight = 52.0;
 
 final List<String> dayHeaderFullNameEnglish = [
   "Sunday",
